@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  2 years working with <b>AI &amp; deep-learning systems</b> across the <b>rail compliance</b> and <b>renewable energy</b> sectors.
+  2 years of <b>industry</b> experience building <b>AI &amp; deep-learning systems</b> for the <b>rail compliance</b> and <b>renewable energy</b> sectors.
 </p>
 
 <p align="center">
