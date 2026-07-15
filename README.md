@@ -24,7 +24,7 @@
 
 My go-to starter is **[turborepo-starter](https://github.com/MurrayMint7/turborepo-starter)** — the stack I reach for whenever I kick off a new Next.js project.
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
