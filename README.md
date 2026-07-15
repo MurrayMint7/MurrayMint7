@@ -69,17 +69,3 @@ Game coaches that help you play smarter.
 | :------ | :---------- |
 | ♠️ **[poker-coach](https://github.com/MurrayMint7/poker-coach)** | A coaching tool for sharpening poker strategy and decision-making. |
 | ♟️ **[chess-coach](https://github.com/MurrayMint7/chess-coach)** | A coaching tool for improving chess play and analysis. |
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Software Engineer with a **2:1 BSc** from Manchester Metropolitan University
-- 🔭 Focused on shipping useful products — datasets, coaching tools, and learning systems
-- 📍 Based in **Leeds, UK**
-- 📫 Reach me at **[joshuaamurray22@gmail.com](mailto:joshuaamurray22@gmail.com)**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MurrayMint7&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MurrayMint7&layout=compact&hide_border=true&theme=default" alt="Top Languages" height="150" />
-</p>
