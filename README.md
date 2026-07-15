@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  I build practical products, starter kits, and learning projects — moving ideas from concept to working software.
+  Software engineer working with <b>AI &amp; deep-learning systems</b> across the <b>rail compliance</b> and <b>renewable energy</b> sectors.
 </p>
 
 <p align="center">
