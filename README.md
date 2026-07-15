@@ -44,14 +44,14 @@ Products and experiments I'm building.
 | :------ | :---------- |
 | 🧠 **[RNN](https://github.com/MurrayMint7/RNN)** | An educational deep-learning project exploring recurrent neural networks — the seed of something larger to come. |
 
-## 🎮 Games
+## 📊 Datasets
 
-Game coaches that help you play smarter.
+Curated data and the tooling around it.
 
 | Project | Description |
 | :------ | :---------- |
-| ♠️ **[poker-coach](https://github.com/MurrayMint7/poker-coach)** | A coaching tool for sharpening poker strategy and decision-making. |
-| ♟️ **[chess-coach](https://github.com/MurrayMint7/chess-coach)** | A coaching tool for improving chess play and analysis. |
+| ₿ **[crypto-dataset](https://github.com/MurrayMint7/crypto-dataset)** | Datasets and tooling built around cryptocurrency data. |
+
 
 ## 📦 Starters
 
@@ -61,13 +61,14 @@ Reusable foundations for new projects.
 | :------ | :---------- |
 | ⚡ **[turborepo-starter](https://github.com/MurrayMint7/turborepo-starter)** | My preferred stack in one starter — used to begin Next.js projects. |
 
-## 📊 Datasets
+## 🎮 Games
 
-Curated data and the tooling around it.
+Game coaches that help you play smarter.
 
 | Project | Description |
 | :------ | :---------- |
-| ₿ **[crypto-dataset](https://github.com/MurrayMint7/crypto-dataset)** | Datasets and tooling built around cryptocurrency data. |
+| ♠️ **[poker-coach](https://github.com/MurrayMint7/poker-coach)** | A coaching tool for sharpening poker strategy and decision-making. |
+| ♟️ **[chess-coach](https://github.com/MurrayMint7/chess-coach)** | A coaching tool for improving chess play and analysis. |
 
 ---
 
