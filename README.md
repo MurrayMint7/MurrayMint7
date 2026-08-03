@@ -65,7 +65,7 @@ Products and experiments I'm building.
 
 | Project | Description |
 | :------ | :---------- |
-| 🧠 **[RNN](https://github.com/MurrayMint7/RNN)** | An educational deep-learning project exploring recurrent neural networks, the seed of something larger to come. |
+| 🧠 **[RNN](https://github.com/MurrayMint7/RNN)** | A recurrent neural network that predicts wind turbine energy output from wind weather data. |
 | 🐦 **[bird-audio-classifier](https://github.com/MurrayMint7/bird-audio-classifier)** | A deep-learning model that identifies bird species from audio recordings. |
 
 ## 📊 Datasets
