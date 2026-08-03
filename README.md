@@ -74,7 +74,7 @@ Curated data and the tooling around it.
 
 | Project | Description |
 | :------ | :---------- |
-| ₿ **[historical-crypto-data](https://github.com/MurrayMint7/historical-crypto-data)** | Datasets and tooling built around cryptocurrency data. |
+| ₿ **[historical-crypto-data](https://github.com/MurrayMint7/historical-crypto-data)** | Cryptocurrency data collected for later machine-learning analysis. |
 
 
 ## 📦 Starters
@@ -92,4 +92,4 @@ Game coaches that help you play smarter.
 | Project | Description |
 | :------ | :---------- |
 | ♠️ **[poker-coach](https://github.com/MurrayMint7/poker-coach)** | A coaching tool for sharpening poker strategy and decision-making. |
-| ♟️ **[chess-coach](https://github.com/MurrayMint7/chess-coach)** | A coaching tool for improving chess play and analysis. |
+| ♟️ **[chess-coach](https://github.com/MurrayMint7/chess-coach)** | A coaching tool for improving chess play and analysis, using local Ollama models to explain each move. |
